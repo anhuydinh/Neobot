@@ -1,0 +1,326 @@
+1644202389887	geckodriver	INFO	Listening on 127.0.0.1:56506
+1644202549443	geckodriver	INFO	Listening on 127.0.0.1:56559
+1644203048631	geckodriver	INFO	Listening on 127.0.0.1:52813
+1644203051766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52814" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileiRQAje"
+1644203052186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileiRQAje\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52814/devtools/browser/88b4107f-f397-42e9-ab68-ed43420c5dbd
+1644203055802	Marionette	INFO	Listening on port 52819
+1644203056036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644203177089	Marionette	INFO	Stopped listening on port 52819
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644203423637	geckodriver	INFO	Listening on 127.0.0.1:58186
+1644203426764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58187" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileBaanhH"
+1644203427242	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileBaanhH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58187/devtools/browser/b6a196ae-17a0-4dfd-a108-9dfcc6b2e99b
+1644203430558	Marionette	INFO	Listening on port 58192
+1644203431057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1644203527751	Marionette	INFO	Stopped listening on port 58191644203528352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58329" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofilepgImXv"
+1644203529103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofilepgImXv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58329/devtools/browser/9d716d2a-c765-4543-978b-143ab74dfaca
+1644203533177	Marionette	INFO	Listening on port 58334
+1644203533224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644203620091	Marionette	INFO	Stopped listening on port 58334
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644203627840	geckodriver	INFO	Listening on 127.0.0.1:58458
+1644203630943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58459" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofile3MRr2f"
+1644203631367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofile3MRr2f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58459/devtools/browser/acd7366a-0688-4c47-9cf5-2fa3ff43ffc8
+1644203634378	Marionette	INFO	Listening on port 58464
+1644203634708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2ffc54dd74e0.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:��)B
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/2ffc54dd74e0.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:��)B
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/b29bbdfb8efb.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644203834691	Marionette	INFO	Stopped listening on port 58464
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1644220454237	geckodriver	INFO	Listening on 127.0.0.1:55545
+1644220457322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55546" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileY6HNau"
+1644220458037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileY6HNau\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55546/devtools/browser/ad460aeb-7e8e-4d59-a6f7-5ecd747dfc43
+1644220460494	Marionette	INFO	Listening on port 55551
+1644220460581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644220490217	Marionette	INFO	Stopped listening on port 55551
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644220579782	geckodriver	INFO	Listening on 127.0.0.1:55744
+1644220582875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55745" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofilepBEyA4"
+1644220583436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofilepBEyA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55745/devtools/browser/15fccd34-899c-4ce4-89c4-5f6e5b863b2a
+1644220585678	Marionette	INFO	Listening on port 55750
+1644220586117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1644220834094	Marionette	INFO	Stopped listening on port 55750
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644222079308	geckodriver	INFO	Listening on 127.0.0.1:59724
+1644222082337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59725" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileCJ13LZ"
+1644222082700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileCJ13LZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59725/devtools/browser/23e17c21-ecc5-498c-b7f6-de3336662f7b
+1644222085577	Marionette	INFO	Listening on port 59730
+1644222086089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1644222896968	geckodriver	INFO	Listening on 127.0.0.1:58868
+1644222900019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58869" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileI8LD7N"
+1644222900405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileI8LD7N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58869/devtools/browser/48bf26ad-655e-4260-850c-3c75f9c4323a
+1644222902859	Marionette	INFO	Listening on port 58875
+1644222903264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644223241264	Marionette	INFO	Stopped listening on port 58875
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644223574598	geckodriver	INFO	Listening on 127.0.0.1:54119
+1644223577671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54120" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileZTaNAv"
+1644223578001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileZTaNAv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54120/devtools/browser/0b8bd1ec-4cfa-41bc-99c6-71287ab03fd6
+1644223580256	Marionette	INFO	Listening on port 54126
+1644223580390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1644223591226	Marionette	INFO	Stopped listening on port 54126
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644224213516	geckodriver	INFO	Listening on 127.0.0.1:54439
+1644224216612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54440" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofile2fEkxV"
+1644224216896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofile2fEkxV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54440/devtools/browser/cdde5a8c-29b7-42e3-b6bb-c5873a4a6b82
+1644224219098	Marionette	INFO	Listening on port 54446
+1644224219324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644225825282	geckodriver	INFO	Listening on 127.0.0.1:64518
+1644634209538	geckodriver	INFO	Listening on 127.0.0.1:61677
+1644634213005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61678" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileMtRocp"
+1644634213992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileMtRocp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61678/devtools/browser/aae22a2b-e4ae-48d0-94ee-589871d7194d
+1644634216376	Marionette	INFO	Listening on port 61691
+1644634216807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644634278120	Marionette	INFO	Stopped listening on port 61691
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1644723088185	geckodriver	INFO	Listening on 127.0.0.1:65292
+1644723091270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65293" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofileoca3e1"
+1644723092148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofileoca3e1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65293/devtools/browser/ab87e6ae-9b81-48e6-b27f-aa5a5c3ac20f
+1644723094633	Marionette	INFO	Listening on port 65299
+1644723095010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644723504812	Marionette	INFO	Stopped listening on port 65299
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1644930232622	geckodriver	INFO	Listening on 127.0.0.1:61879
+1644930235717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61880" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofile0yGyYu"
+1644930236548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofile0yGyYu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61880/devtools/browser/f40e71b7-d496-44d7-98c6-4361b6f9fde3
+1644930239036	Marionette	INFO	Listening on port 61886
+1644930239445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1644930260232	Marionette	INFO	Stopped listening on port 61886
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645002314099	geckodriver	INFO	Listening on 127.0.0.1:55126
+1645002314674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55127" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofile4O5Nd1"
+1645002315984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofile4O5Nd1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55127/devtools/browser/5b1dd956-ee4f-4405-939b-4f445c31f164
+1645002319904	Marionette	INFO	Listening on port 55132
+1645002320081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645002354727	Marionette	INFO	Stopped listening on port 55132
+[Parent 23336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645661954042	geckodriver	INFO	Listening on 127.0.0.1:51265
+1645888925471	geckodriver	INFO	Listening on 127.0.0.1:50016
+1645888928566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50017" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofilepWj3MO"
+1645888929566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofilepWj3MO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50017/devtools/browser/4463a167-2a83-4a4c-94ae-6e8d547d0e93
+1645888932137	Marionette	INFO	Listening on port 50022
+1645888932328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645888997496	Marionette	INFO	Stopped listening on port 50022
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+50099" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofiletdYjjK"
+1645888978973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofiletdYjjK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50099/devtools/browser/6c15a67b-574b-4530-9cbe-b39de8bfdab2
+1645888981185	Marionette	INFO	Listening on port 50104
+1645888981243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645889136428	geckodriver	INFO	Listening on 127.0.0.1:62600
+1645889139507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62601" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofilePw0UAD"
+1645889139895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofilePw0UAD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62601/devtools/browser/b5230bdb-c041-46a8-9e80-d25daaf1009b
+1645889141988	Marionette	INFO	Listening on port 62606
+1645889142225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+1645889147692	Marionette	INFO	Stopped listening on port 62606
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645889219476	geckodriver	INFO	Listening on 127.0.0.1:62675
+1645889222560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62676" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofilelWuxq5"
+1645889222950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofilelWuxq5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62676/devtools/browser/0d5254a4-93da-440b-9df5-5b5096d2cdb2
+1645889225329	Marionette	INFO	Listening on port 62682
+1645889225781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6136, MediaDecoderStateMachine #1] WARNING: 1ab1d5919e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:375
+1645889286035	Marionette	INFO	Stopped listening on port 62682
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+62759" "-no-remote" "-profile" "C:\\Users\\PETESH~1\\AppData\\Local\\Temp\\rust_mozprofile7WT5sc"
+1645889280656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\PetesHacker\\AppData\\Local\\Temp\\rust_mozprofile7WT5sc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62759/devtools/browser/08c4ec36-23c0-4e69-899d-bdfbfebba5c1
+1645889282962	Marionette	INFO	Listening on port 62764
+1645889283060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645889286914	Marionette	INFO	Stopped listening on port 62764
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
