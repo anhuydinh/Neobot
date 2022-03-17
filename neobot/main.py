@@ -5,7 +5,6 @@ import time
 import sys
 import subprocess
 import string
-# import keyboard #Turns on to activate quickly turn off function (Broken btw)
 import os
 import functions
 # from getpass import getpass
@@ -17,13 +16,8 @@ def clear_scr():
 
 clear_scr()
 
-# if os.path.isdir('logs') == True:
-#     pass
-# else: #
-#     os.mkdir("logs")
 
-functions.check_logs()
-#Quickly turn off
+#-----------Quick turn off
     
 # def check1():
 #     if keyboard.read_key() == "F12":
@@ -46,7 +40,7 @@ class bcolors:
 
 
 # Greetings/Interface
-color_random=[bcolors.HEADER,bcolors.OKBLUE,bcolors.OKCYAN,bcolors.OKGREEN,bcolors.WARNING,bcolors.FAIL,bcolors.BOLD,bcolors.UNDERLINE]
+color_random=[bcolors.HEADER,bcolors.OKBLUE,bcolors.OKCYAN,bcolors.OKGREEN,bcolors.WARNING,bcolors.FAIL,bcolors.UNDERLINE]
 random.shuffle(color_random)
 interf1 = color_random[0] +"""
                                 # /$$   /$$                     /$$                   /$$    
@@ -99,8 +93,12 @@ with open(cookies_path.format(path = str(cookiesfile)), 'w') as cookie:
 
 
 #Clearing cookies file
-cookiopn = open(cookies_path.format(path = str(cookiesfile)), 'w')
-cookiopn.close()
+def clear_cookies():
+    cookiopn = open(cookies_path.format(path = str(cookiesfile)), 'w')
+    cookiopn.close()
+
+clear_cookies()
+
 #------------------------------------------------------------------
 time.sleep(1) #Let them see the title first lol
 print(functions_menu)
@@ -167,6 +165,7 @@ while breakloop == False:
         break
     elif selection == "0":
         print(bcolors.WARNING+ "User chosed to exit program\n"+bcolors.ENDC)
+        breakloop = True
         handle5()
     
     else:
