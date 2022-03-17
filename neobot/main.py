@@ -55,7 +55,7 @@ interf1 = color_random[0] +"""
                                 }--------------{+} Coded By PetesHacker {+}--------------{
                                    }--------{+}  GitHub.com/PeterBenj2000 {+}--------{
                                               *read github des before using*
-                                                     PROTOTYPE MODE
+                                                   PROTOTYPE VERSION
 """+ bcolors.ENDC
 tab1 = " " * 32
 print(interf1)  
