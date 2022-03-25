@@ -16,7 +16,7 @@ import curses
 
 #---------Setup
 
-
+print("Test commit")
 
 #-----------Quick turn off
     
