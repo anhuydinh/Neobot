@@ -16,7 +16,6 @@ import curses
 
 #---------Setup
 
-print("Test git")
 
 
 #-----------Quick turn off
