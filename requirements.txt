@@ -1,0 +1,8 @@
+Requirements:
+
+Install instapy through 
+"pip install instapy"
+
+Install PIL through
+"pip install Pillow" 
+
