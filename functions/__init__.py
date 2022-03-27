@@ -1,5 +1,6 @@
 #Installing Tool's settings
 # from .func1 import function1
+from main import *
 import time
 import sys
 import string
@@ -29,6 +30,22 @@ def check_logs():
             print('Logs folder error')
             os.mkdir('logs')
             print("logs created")
+
+class function1():
+
+    def readCookies():
+        directry = str(cookiesfile+".txt")
+        lines = []
+        with open(directry) as f:
+            lines = f.readlines()
+        count = 0 #
+        for line in lines: #
+            count += 1
+            print(line)
+
+    def function1_1():
+        session = InstaPy(username = user_ins, password = user_pas)
+        session.login()
 
 def main():
     loading(3,"Loading")
