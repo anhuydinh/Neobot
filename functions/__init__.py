@@ -1,6 +1,6 @@
 #Installing Tool's settings
 # from .func1 import function1
-from main import *
+# from main import *
 import time
 import sys
 import string
