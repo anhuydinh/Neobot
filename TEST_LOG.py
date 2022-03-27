@@ -92,9 +92,19 @@
 # import sys
 # import subprocess
 # print subprocess.Popen("echo Hello World", shell=True, stdout=subprocess.PIPE).stdout.read()
-import urllib.request
-import time
-with urllib.request.urlopen('http://python.org/') as response:
-   html = response.read()
-   with open("test.txt",'w') as test:
-       test.write(str(html))
+# import urllib.request
+# import time
+# with urllib.request.urlopen('http://python.org/') as response:
+#    html = response.read()
+#    with open("test.txt",'w') as test:
+#        test.write(str(html))
+
+# Context = "Great Jobs, you win!"
+
+# write = painter.write(Context, font)
+# def clear():
+#     painter.clear()
+#     playerControlledTurtle.clear()
+#     playerControlledTurtle.penup()
+#     Context = ""
+    
