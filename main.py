@@ -7,6 +7,7 @@ import sys
 import subprocess
 import string
 import os
+from win10toast import *
 import curses
 # from functions.func1_ import readCookies
 # from functions import function1
@@ -14,8 +15,11 @@ import curses
 # from getpass import getpass
 # from func1 import *
 
-#---------Setup
+#---------Create notifier
+notifier = ToastNotifier()
 
+def notify(Header,Duration):
+    notifier.show_toast(Header, Header,duration = Duration) 
 
 #-----------Quick turn off
     
