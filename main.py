@@ -72,7 +72,7 @@ print(interf1)
 functions_menu = bcolors.WARNING+""" 
 {1}--I automation 
 {2}--Spambot 
-{3}--Autocomplete
+{3}--Anime Client # made by Chirag Singla
 {4}--Autowrite
 {0}--End
 
