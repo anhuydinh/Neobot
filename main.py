@@ -19,7 +19,7 @@ import curses
 notifier = ToastNotifier()
 
 def notify(Header,Duration):
-    notifier.show_toast(Header, Header,duration = Duration) 
+    notifier.show_toast("/'neobot/'", Header,duration = Duration,icon_path=None) 
 
 #-----------Quick turn off
     
@@ -197,3 +197,4 @@ if breakloop == True:
     exit()
 
 print("Program expired")
+notify("Thanks for using this program",2)
