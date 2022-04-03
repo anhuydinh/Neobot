@@ -9,6 +9,7 @@ import string
 import os
 from win10toast import *
 import curses
+import shutil
 # from functions.func1_ import readCookies
 # from functions import function1
 
@@ -73,7 +74,7 @@ functions_menu = bcolors.WARNING+"""
 {1}--I automation 
 {2}--Spambot 
 {3}--Anime Client # made by Chirag Singla
-{4}--Autowrite
+{4}--Autowrite  
 {0}--End
 
 --Note that this project is in heavy development
